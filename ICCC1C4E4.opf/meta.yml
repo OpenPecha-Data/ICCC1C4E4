@@ -1,0 +1,38 @@
+id: ICCC1C4E4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T08:48:59.443631'
+last_modified: '2022-06-19T08:48:59.443642'
+parser: null
+source_metadata:
+  title: Hagiography of 47th Ngor abbot Byams pa kun dga bstan dzin bkra shis grags
+    pai rgyal mtshan (1776–1862); Lamdre Lobshe, vol. ja, title no. 2
+  author: byams pa kun dga bstan pai rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-05); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - 'Revisions/Corrections: -'
+  text_witnesses: https://sakyaresearch.org/sources/579
+  bases:
+    c5b3:
+      title: Hagiography of 47th Ngor abbot Byams pa kun dga bstan dzin bkra shis
+        grags pai rgyal mtshan (1776–1862); Lamdre Lobshe, vol. ja, title no. 2
+      order: 1
+      base_file: c5b3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
